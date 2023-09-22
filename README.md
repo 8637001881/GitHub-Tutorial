@@ -1,4 +1,4 @@
 # GitHub-Tutorial
-This is my first git repository
+This is My First git repository
 <br>
 Author - Tanmay Karmakar
